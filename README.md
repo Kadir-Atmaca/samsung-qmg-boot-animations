@@ -1,9 +1,9 @@
 # samsung-qmg-boot-animations
-Turkish: 
+## Turkish: 
 Samsung telefonlara özel açılış animasyonları
 !!root lazım!!
 Telefonun başına bir şey gelirse sorumluluk kabul etmeyeceğim.
-english:
+## english:
 Special boot animations made for Samsung phones
 !!need root!!
 If anything happens to the phone, I will not be held responsible.
